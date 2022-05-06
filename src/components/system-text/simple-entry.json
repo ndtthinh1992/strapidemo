@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_system_text_simple_entries",
+  "info": {
+    "displayName": "simple-entry",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
